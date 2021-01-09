@@ -7,3 +7,6 @@ class TestClass(object):
 
 def function():
     pass
+
+
+vari = 3
